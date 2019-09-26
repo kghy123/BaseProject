@@ -1,8 +1,5 @@
 package com.google.kghy1234.baseproject.activities;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-
 import com.google.kghy1234.baseproject.R;
 import com.google.kghy1234.baseproject.base.BaseActivity;
 
